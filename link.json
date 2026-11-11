@@ -1,0 +1,18 @@
+
+{
+  "version": 1,
+  "apps": [
+    {
+      "name": "Spotify Downloader",
+      "description": "Download Spotify",
+      "download_url": "https://example.com/spotify.exe",
+      "sha256": "HASH_DO_FICHEIRO"
+    },
+    {
+      "name": "Another Tool",
+      "description": "Another application",
+      "download_url": "https://example.com/tool.exe",
+      "sha256": "HASH_DO_FICHEIRO"
+    }
+  ]
+}
